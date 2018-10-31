@@ -1,0 +1,14 @@
+{
+    "title" : "Responsive React Layout Componentss",
+    "menuHTML" : "<p>This is the menu...</p>",
+    "styles" : {
+        "backgroundColor": "#33b5e5",
+        "color": "#ffffff",
+        "padding": "12px",
+        ".menu ul" : {
+            "list-style-type": "none",
+            "margin": 0,
+            "padding": 0
+        }
+    }
+}

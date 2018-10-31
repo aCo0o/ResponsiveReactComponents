@@ -1,0 +1,8 @@
+{
+    "title" : "Welcome!",
+    "bodyHTML" : "<p>This boilerplate includes editable Header, Body, Side, Meny and Footer components.<br/></p>Get started with React:<br/><br/>$ <code>npm i -g create-react-app<br/>$ npm create-react-app ´AppName´<br/>$ cd ´AppName´<br/>$ npm start </pre></code>",
+    "style" : {
+        "fontSize" : 22,
+        "color" : "#9a9a9a"
+    }
+}

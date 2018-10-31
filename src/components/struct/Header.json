@@ -1,0 +1,9 @@
+{
+    "title" : "Responsive React Layout Components",
+    "headerHTML" : "<p>This is the header...</p>",
+    "styles" : {
+        "backgroundColor": "#283a4e",
+        "color": "#ffffff",
+        "padding": "15px"
+    }
+}
